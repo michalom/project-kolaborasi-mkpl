@@ -19,6 +19,8 @@
 
   <link rel="SHORTCUT ICON" href="assets/img/logo.png">
 
+<!-- COBA COBA NGERJAIN MKPL , SENNAZIANUR ANNISA SARI -->
+
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -64,6 +66,7 @@
   <!-- /.login-box-body -->
 </div>
 <!-- /.login-box -->
+
 
 <!-- jQuery 3 -->
 <script src="assets/AdminLTE/bower_components/jquery/dist/jquery.min.js"></script>
