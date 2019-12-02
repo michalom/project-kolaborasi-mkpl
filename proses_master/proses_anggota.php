@@ -65,5 +65,11 @@ if(isset($_POST['delete'])) {
     header("location:../anggota.php");
   }
 }
-
+//Update function
+//Dicoba dicoba barubarubaru
+//funct_Anggota (X) {
+//if(a=b){
+//a = a+c
+//}
+//}
 ?>
