@@ -9,7 +9,7 @@ include 'template/Sidebar.php';
     <!--EDN CONTENT LABEL-->
     <div class="box">
       <div class="box-header with-border">
-        <h3 class="box-title"><p><b>Visi Misi dan Tujuan Sekolah SMAN 108</b></p></h3>
+        <h3 class="box-title"><p><b>Visi Misi SMAN 108</b></p></h3> <!-- yang ini udah nyoba aja kok hehe -->
           <div class="box-tools pull-right">
             <button data-original-title="Collapse" class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip" title=""><i class="fa fa-minus"></i></button>
             <button class="btn btn-box-tool" data-widget="remove" data-toggle="tooltip" title="Remove"><i class="fa fa-times"></i></button>
@@ -27,7 +27,7 @@ include 'template/Sidebar.php';
           <p>4. Menerapkan pendekatan saintifik (ilmiah) dalam pembelajaran</p>
           <p>5. Mendorong peserta didik terampil dalam mengolah informasi, terampil berkomunikasi, dan terampil berinteraksi</p>
               
-          <p><b>Tujuan:</b>
+          <p><u><b>Tujuan:</b></u>
           <p>1. Membiasakan budaya 5-S (Salam, Senyum, Sapa, Sopan, dan Santun)</p>
           <p>2. Bersikap dan berperilaku sesuai tata tertib, peraturan, kode etik dan budaya sekolah</p>
           <p>3. Menciptakan kondisi lingkungan sekolah yang kondusif</p>
@@ -54,3 +54,4 @@ include 'template/Sidebar.php';
 
 include 'template/Footer.php';
 ?>
+
