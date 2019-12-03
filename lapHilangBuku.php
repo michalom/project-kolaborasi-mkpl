@@ -7,7 +7,7 @@ include_once("Database/koneksi.php");
 <div class="content-wrapper">
   <section class="content-header">
     <h1>
-      <small><b>Halaman Laporan Buku Hilang</b></small>
+      <small><b>Halaman Pelaporan Buku Hilang</b></small>
     </h1>
   </section>
 <section class="content">
@@ -16,7 +16,7 @@ include_once("Database/koneksi.php");
     <div class="col-lg-12">
       <div class="box box-success">
         <div class="box-header with-border">
-          <h3 class="box-title"><i class="fa fa-file-text fa-fw"></i> Laporan Buku Hilang</h3>
+          <h3 class="box-title"><i class="fa fa-file-text fa-fw"></i> <b>Laporan Buku Hilang</b></h3>
         </div>
 
         <div class="box-body">
