@@ -8,6 +8,12 @@ include_once("Database/koneksi.php");
   <section class="content-header">
     <h1>
       <small><b>Halaman Data Anggota</b></small>
+      <!--
+        Bismillah MKPl dapat A 
+        Metode Formal dapat A 
+        Rekayasa Embedded system Dapat A juga 
+        wkwkwkwkwk
+      -->
     </h1>
   </section>
 <section class="content">
