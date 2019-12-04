@@ -10,7 +10,7 @@ include_once("Database/koneksi.php");
       <small><b>Halaman Data Kunjungan</b></small>
       <!--
         Coba Coba 
-        Project MKPL SUKSES
+        Project MKPL 
       -->
     </h1>
   </section>
